@@ -1,3 +1,4 @@
 pyTelegramBotAPI
 flask
 psycopg2-binary
+apscheduler
